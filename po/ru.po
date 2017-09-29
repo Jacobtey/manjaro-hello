@@ -104,7 +104,7 @@ msgstr "О программе "
 
 #: ../ui/manjaro-hello.glade:524
 msgid "Welcome screen for Manjaro"
-msgstr "Приветвствие Manjaro"
+msgstr "Приветствие Manjaro"
 
 #: ../src/manjaro_hello.py:239
 msgid "Can't load page."
